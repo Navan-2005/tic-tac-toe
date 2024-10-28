@@ -1,4 +1,6 @@
 body{
+    display:flex;
+    justify-content: center;
     background-color: #2a9d8f;
     text-align: center;
     font-family: cursive;
@@ -8,7 +10,6 @@ body{
     width: 400px;
     height:400px;
     background-color:black;
-    margin-left: 560px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
