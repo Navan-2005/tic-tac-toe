@@ -1,6 +1,7 @@
 body{
     display:flex;
     justify-content: center;
+    flex-wrap:wrap;
     background-color: #2a9d8f;
     text-align: center;
     font-family: cursive;
