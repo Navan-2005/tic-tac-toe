@@ -5,7 +5,7 @@ body{
     background-color: #2a9d8f;
     text-align: center;
     font-family: cursive;
-
+    border-color: #2a9d8f;
 }
 .game{
     width: 400px;
